@@ -1,0 +1,117 @@
+body {
+  font-size: 11px !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.logo {
+  width: 968px;
+  float: left;
+  padding: 40px 0 25px 0;
+  text-align: center;
+  z-index: 999!important;
+}
+
+nav {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  background-color: #333333 !important;
+}
+
+.navigation {
+  font-size: 16px !important;
+}
+
+.nav-link {
+  color: white !important;
+  margin-left: 25px;
+}
+
+.main-container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+#slogan {
+  text-align: center;
+}
+
+#portfolio-title {
+  text-align: center;
+}
+
+.one {
+  background-image: url("http://www.global-events.com/na/assets/images/style/Clinton_home.jpg");
+  height: 250px;
+}
+
+.portfolio-content {
+  color: white;
+  padding-top: 180px;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.clients {
+  border: 1px solid grey;
+}
+
+#client-title {
+  text-align: center;
+}
+
+.about {
+  border: 1px solid grey;
+  padding: 15px;
+}
+
+.vl {
+  border-right: 1px solid grey;
+  height: auto;
+}
+
+#about-title {
+  text-align: center;
+}
+
+.capabilities {
+  border: 1px solid grey;
+  padding: 15px;
+}
+
+#capabilities-title {
+  text-align: center;
+}
+
+.news {
+  border: 1px solid grey;
+  padding: 15px;
+}
+
+#news-title {
+  text-align: center;
+}
+
+.contact {
+  color: white;
+  border: 1px solid grey;
+  font-size: 11px;
+  background-color: #333;
+}
+
+.contact-content {
+  padding-top: 70px;
+  padding: 75px;
+}
+
+#contact-title {
+  text-align: center;
+}
+
+.cp {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#line {
+  border-color: #929292;
+}
